@@ -1,0 +1,5 @@
+D:\Projects\DesignPatternsLab\Mediator\MediatorBadSample\MediatorBadSample\bin\Debug\MediatorBadSample.exe
+D:\Projects\DesignPatternsLab\Mediator\MediatorBadSample\MediatorBadSample\bin\Debug\MediatorBadSample.pdb
+D:\Projects\DesignPatternsLab\Mediator\MediatorBadSample\MediatorBadSample\obj\Debug\MediatorBadSample.csprojResolveAssemblyReference.cache
+D:\Projects\DesignPatternsLab\Mediator\MediatorBadSample\MediatorBadSample\obj\Debug\MediatorBadSample.exe
+D:\Projects\DesignPatternsLab\Mediator\MediatorBadSample\MediatorBadSample\obj\Debug\MediatorBadSample.pdb
